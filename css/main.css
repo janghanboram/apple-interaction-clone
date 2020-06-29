@@ -79,7 +79,7 @@ body.before-load {
 .scroll-section {
   position: relative;
   /* viewport height */
-	padding-top: 50vh; 
+  padding-top: 50vh; 
 }
 #scroll-section-0 h1 {
 	font-size: 4rem;
