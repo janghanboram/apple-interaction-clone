@@ -89,6 +89,7 @@ body.before-load {
 	display: flex;
 	align-items: center;
   justify-content: center;
+	top: 35vh;  
 	margin: 5px 0;  
   font-size: 2.5rem;
   opacity: 0;
@@ -128,6 +129,14 @@ body.before-load {
 	height: 100px;
 	background: rgb(29, 29, 31);
 }
+#scroll-section-2 .b {
+	top: 10%;
+	left: 40%;
+}
+#scroll-section-2 .c {
+	top: 15%;
+	left: 45%;
+}
 .mid-message {
   width: 1000px;
   margin: 0 auto;  
@@ -156,7 +165,6 @@ body.before-load {
 .sticky-elem {
   display: none;
   position: fixed;
-  top: 0;
   left: 0;
   width: 100%;
 }
@@ -189,6 +197,13 @@ body.before-load {
 	}
 	.desc-message {
 		width: 20%;
+  }
+	#scroll-section-2 .b {
+		top: 20%;
+		left: 53%;
+	}
+	#scroll-section-2 .c {
+		left: 55%;
 	}
 	.mid-message {
 		padding: 0;
